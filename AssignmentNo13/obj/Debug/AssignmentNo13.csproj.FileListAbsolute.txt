@@ -1,0 +1,6 @@
+C:\Users\Ahmad\Desktop\Projects\Chapter 07\AssignmentNo13\AssignmentNo13\bin\Debug\AssignmentNo13.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 07\AssignmentNo13\AssignmentNo13\bin\Debug\AssignmentNo13.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 07\AssignmentNo13\AssignmentNo13\bin\Debug\AssignmentNo13.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 07\AssignmentNo13\AssignmentNo13\obj\Debug\AssignmentNo13.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 07\AssignmentNo13\AssignmentNo13\obj\Debug\AssignmentNo13.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 07\AssignmentNo13\AssignmentNo13\obj\Debug\AssignmentNo13.pdb
